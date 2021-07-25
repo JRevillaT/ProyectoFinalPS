@@ -9,7 +9,6 @@
 #include <string>
 #include "Fecha.h"
 #include "Hora.h"
-#include "Aeropuerto.h"
 using namespace std;
 
 class Avion {

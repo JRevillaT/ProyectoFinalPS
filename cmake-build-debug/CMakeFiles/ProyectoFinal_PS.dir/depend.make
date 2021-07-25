@@ -7,13 +7,11 @@ CMakeFiles/ProyectoFinal_PS.dir/Aeropuerto.cpp.obj: ../Avion.h
 CMakeFiles/ProyectoFinal_PS.dir/Aeropuerto.cpp.obj: ../Fecha.h
 CMakeFiles/ProyectoFinal_PS.dir/Aeropuerto.cpp.obj: ../Hora.h
 
-CMakeFiles/ProyectoFinal_PS.dir/Avion.cpp.obj: ../Aeropuerto.h
 CMakeFiles/ProyectoFinal_PS.dir/Avion.cpp.obj: ../Avion.cpp
 CMakeFiles/ProyectoFinal_PS.dir/Avion.cpp.obj: ../Avion.h
 CMakeFiles/ProyectoFinal_PS.dir/Avion.cpp.obj: ../Fecha.h
 CMakeFiles/ProyectoFinal_PS.dir/Avion.cpp.obj: ../Hora.h
 
-CMakeFiles/ProyectoFinal_PS.dir/Boleta.cpp.obj: ../Aeropuerto.h
 CMakeFiles/ProyectoFinal_PS.dir/Boleta.cpp.obj: ../Avion.h
 CMakeFiles/ProyectoFinal_PS.dir/Boleta.cpp.obj: ../Boleta.cpp
 CMakeFiles/ProyectoFinal_PS.dir/Boleta.cpp.obj: ../Boleta.h
