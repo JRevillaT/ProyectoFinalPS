@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Boleta.cpp
+Boleta.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Boleta.h
+
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Boleta.h
+iostream
+-
+cstring
+-
+Hora.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Hora.h
+Fecha.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Fecha.h
+
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Fecha.h
+
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Hora.h
+
