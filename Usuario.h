@@ -6,15 +6,17 @@
 #define PROYECTOFINAL_PS_USUARIO_H
 
 #include <iostream>
-#include <cstring>
+#include <string>
 using namespace std;
 
 
 class Usuario {
 public:
+    Usuario();
+    Usuario(string n, string a, string c);
     string nombre;
     string apellido;
-    string contraseña;
+    string contrasenia;
 
 };
 

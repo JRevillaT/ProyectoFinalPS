@@ -28,3 +28,14 @@ void Boleta::generarBoleta() {
     cout<<"Hora de Llegada: "<<horaLlegada.hora<<":"<<horaLlegada.minuto<<endl;
     cout<<"Costo de Vuelo: "<<costo<<endl;
 }
+
+Boleta::Boleta() {
+    nombre="";
+    apellido="";
+    asiento=0;
+    aerolinea="";
+    fechaV=new Fecha(0,0,0);
+    horaPartida=new Hora(0,0);
+    horaLlegada=new Hora(0,0);
+    costo=0;
+}

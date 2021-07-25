@@ -3,3 +3,15 @@
 //
 
 #include "Usuario.h"
+
+Usuario::Usuario() {
+    nombre="";
+    apellido="";
+    contrasenia="";
+}
+
+Usuario::Usuario(string n, string a, string c) {
+    nombre=n;
+    apellido=a;
+    contrasenia=c;
+}

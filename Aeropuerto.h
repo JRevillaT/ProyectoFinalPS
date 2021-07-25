@@ -6,10 +6,14 @@
 #define PROYECTOFINAL_PS_AEROPUERTO_H
 
 #include "Avion.h"
-#include <cstring>
+#include <string>
+using namespace std;
+
+
 class Aeropuerto {
 public:
-    Avion avion[10];
+    Aeropuerto();
+    //Avion flota [10];
     string nombre;
     void verTodos();
 };
