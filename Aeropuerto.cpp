@@ -22,5 +22,17 @@ Aeropuerto::Aeropuerto() {
 
 }
 
+Aeropuerto::Aeropuerto(string n) {
+    nombre=n;
+}
+
+void Aeropuerto::verNombre() {
+    cout<<nombre<<endl;
+}
+
+void Aeropuerto::addAvion(Avion a) {
+    flota[0]=a;
+}
+
 
 

@@ -6,11 +6,25 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Aeropuerto.cpp
+Aeropuerto.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Aeropuerto.h
+Avion.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.h
+
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Aeropuerto.h
 Avion.h
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.h
 string
 -
+
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.cpp
+Avion.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.h
+Fecha.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Fecha.h
+Hora.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Hora.h
 
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.h
 iostream
@@ -24,13 +38,43 @@ C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Hora.h
 Aeropuerto.h
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Aeropuerto.h
 
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Boleta.cpp
+Boleta.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Boleta.h
+Usuario.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Usuario.h
+Avion.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.h
+
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Boleta.h
+iostream
+-
+string
+-
+Hora.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Hora.h
+Fecha.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Fecha.h
+Usuario.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Usuario.h
+Avion.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.h
+
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Fecha.h
 
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Hora.h
 
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Usuario.h
+iostream
+-
+string
+-
+
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/main.cpp
 Avion.h
 C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Avion.h
+Aeropuerto.h
+C:/Users/USUARIO/CLionProjects/ProyectoFinal_PS/Aeropuerto.h
 iostream
 -
 

@@ -13,9 +13,12 @@ using namespace std;
 class Aeropuerto {
 public:
     Aeropuerto();
-    //Avion flota [10];
+    Aeropuerto(string n);
+    Avion flota [10];
     string nombre;
     void verTodos();
+    void verNombre();
+    void addAvion(Avion a);
 };
 
 
