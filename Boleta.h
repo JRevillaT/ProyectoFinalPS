@@ -12,7 +12,6 @@
 #include "Usuario.h"
 #include "Avion.h"
 
-
 class Boleta {
 public:
     Boleta();
