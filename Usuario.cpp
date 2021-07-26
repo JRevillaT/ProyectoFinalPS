@@ -16,7 +16,7 @@ Usuario::Usuario(string n, string a, string c) {
     contrasenia=c;
 }
 
-void Usuario::crearReserva(int n, Avion a) {
+/*void Usuario::crearReserva(int n, Avion a) {
     reservas[cantReservas].nombre=nombre;
     reservas[cantReservas].apellido=apellido;
     reservas[cantReservas].asiento=n;
@@ -32,8 +32,8 @@ void Usuario::crearReserva(int n, Avion a) {
     reservas[cantReservas].generarBoleta();
     cantReservas++;
     cout<<"Se creo exitosamente su reserva"<<endl;
-}
-
+}*/
+/*
 void Usuario::eliminarReserva(int p) {
     if(p>0 && p<10){
         reservas[p-1]=reservas[cantReservas-1];
@@ -54,4 +54,4 @@ void Usuario::mostrarReservas() {
         cout<<"Costo de Vuelo: "<<reservas[i].costo<<endl;
     }
 
-}
+}*/

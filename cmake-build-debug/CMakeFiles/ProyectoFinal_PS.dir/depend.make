@@ -30,7 +30,9 @@ CMakeFiles/ProyectoFinal_PS.dir/Usuario.cpp.obj: ../Usuario.h
 
 CMakeFiles/ProyectoFinal_PS.dir/main.cpp.obj: ../Aeropuerto.h
 CMakeFiles/ProyectoFinal_PS.dir/main.cpp.obj: ../Avion.h
+CMakeFiles/ProyectoFinal_PS.dir/main.cpp.obj: ../Boleta.h
 CMakeFiles/ProyectoFinal_PS.dir/main.cpp.obj: ../Fecha.h
 CMakeFiles/ProyectoFinal_PS.dir/main.cpp.obj: ../Hora.h
+CMakeFiles/ProyectoFinal_PS.dir/main.cpp.obj: ../Usuario.h
 CMakeFiles/ProyectoFinal_PS.dir/main.cpp.obj: ../main.cpp
 
